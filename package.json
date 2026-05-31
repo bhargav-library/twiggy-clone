@@ -1,0 +1,22 @@
+{
+  "name": "twiggy",
+  "version": "1.0.0",
+  "description": "A Swiggy-inspired food delivery platform clone built to learn frontend technologies like React, Tailwind CSS, routing, state management, and responsive design, along with backend development using Node.js, APIs, authentication, and MongoDB.",
+  "source": "twiggy.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhargav-library/twiggy-clone.git"
+  },
+  "author": "Bhargav Bora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhargav-library/twiggy-clone/issues"
+  },
+  "homepage": "https://github.com/bhargav-library/twiggy-clone#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
