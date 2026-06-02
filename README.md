@@ -4,4 +4,4 @@ I am also learning development tools and dependencies such as Parcel, Babel, npm
 
 On the backend side, the project helps me understand Node.js, API development, server-side architecture, authentication, and database integration using databases like MongoDB.
 
-Through this project, I am also gaining practical exposure to full-stack development, REST APIs, asynchronous programming, deployment, performance optimization, debugging, and basic system design concepts used in real-world scalable applications.
+Through this project, I am also gaining practical exposure to full-stack development, REST APIs, asynchronous programming, deployment, performance optimization, debugging, and basic system design concepts used in real-world scalable applications
