@@ -4,7 +4,7 @@ const Header =()=>{
         <div className="header">
             <div className="logo-container">
                <img className="logo"
-                 
+                 src={logo_url}
               />
               
             </div>
