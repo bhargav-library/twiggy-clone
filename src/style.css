@@ -119,6 +119,35 @@ body {
   transform: scale(0.97);
 }
 
+/* ─── Filter ─── */
+
+.filtered-list {
+  margin-bottom: 24px;
+}
+
+.filter-btn {
+  height: 42px;
+  padding: 0 20px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #3d3d3d;
+  background-color: #fff;
+  border: 1.5px solid #ddd;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: border-color 0.2s, color 0.2s, background-color 0.2s;
+}
+
+.filter-btn:hover {
+  border-color: #fc8019;
+  color: #fc8019;
+  background-color: #fff7ef;
+}
+
+.filter-btn:active {
+  transform: scale(0.97);
+}
+
 /* ─── Restaurant List ─── */
 
 .restaurant-list {
