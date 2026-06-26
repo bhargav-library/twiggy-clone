@@ -14,4 +14,3 @@ const Filter = ({ listOfRestaurants, setListOfRestaurants }) => {
   );
 };
 
-export default Filter;

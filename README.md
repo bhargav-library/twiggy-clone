@@ -1,4 +1,4 @@
-Twiggy Clone is basically a clone of the Swiggy food delivery platform. By building this project, I am learning frontend technologies like React and Tailwind CSS, along with concepts such as Config-Driven UI, component-based architecture, state management, routing, and responsive design.
+Twiggy Clone is basically a clone of the Swiggy food delivery platform. By building this project, I am learning  concepts such as Config-Driven UI, component-based architecture, state management, routing, and responsive design.
 
 I am also learning development tools and dependencies such as Parcel, Babel, npm, and Git/GitHub for package management and version control.
 
